@@ -42,7 +42,7 @@ Google Gemini API| AI-powered insights
 
 1. Clone the repository
 
-git clone https://github.com/Sabaahat/Student-Expense-Tracker.git
+git clone https://github.com/Sabaahat/AI-Powered-Student-Expense-Tracker
 
 2. Open the project folder
 
