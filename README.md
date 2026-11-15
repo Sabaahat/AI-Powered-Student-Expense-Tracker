@@ -1,10 +1,6 @@
 💰 AI-Powered Student Expense Tracker
 
-<p align="center">
-  <img src="./banner.png"
-       alt="AI-Powered Student Expense Tracker Banner"
-       width="100%">
-</p><h1 align="center">AI-Powered Student Expense Tracker</h1><p align="center">
+<h1 align="center">AI-Powered Student Expense Tracker</h1><p align="center">
   <b>Plan Better. Spend Wisely. Achieve More.</b>
   <br>
   A smart AI-powered expense management application designed especially for students.
